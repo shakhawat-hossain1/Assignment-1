@@ -749,6 +749,9 @@ let toUpperCase = mixString.toUpperCase();
 console.log(toUpperCase);
 
 
+print("Hello this is opu")
+
+
 
 
 
